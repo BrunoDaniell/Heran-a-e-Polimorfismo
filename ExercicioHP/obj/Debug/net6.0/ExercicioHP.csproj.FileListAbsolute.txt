@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\bin\Debug\net6.0\ExercicioHP.exe
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\bin\Debug\net6.0\ExercicioHP.deps.json
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\bin\Debug\net6.0\ExercicioHP.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\bin\Debug\net6.0\ExercicioHP.dll
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\bin\Debug\net6.0\ExercicioHP.pdb
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.dll
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\refint\ExercicioHP.dll
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.pdb
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ExercicioHP.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\ExercicioHP\ExercicioHP\obj\Debug\net6.0\ref\ExercicioHP.dll
